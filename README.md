@@ -12,7 +12,7 @@ Current implemented OIT methods include:
 
 Reference: Order-Independent Transparence presented by Nvidia
 
-![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/WeightedBlended.gif)
+![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/DepthPeeling.gif)
 
 **Note**: need MRT support to render color and depth.
 
@@ -20,6 +20,6 @@ Reference: Order-Independent Transparence presented by Nvidia
 
 Reference: Weighted Blended Order-Independent Transparency by Morgan McGuire and Louis Bavoil
 
-![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/DepthPeeling.gif)
+![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/WeightedBlended.gif)
 
 
