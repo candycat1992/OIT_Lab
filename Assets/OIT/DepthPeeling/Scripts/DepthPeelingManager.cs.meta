@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cbe8b2e3e73cf4474b5cea26278a33af
+timeCreated: 1464242918
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - initializationShader: {fileID: 4800000, guid: ca089004385e54723aeff5284b0f09be,
+      type: 3}
+  - depthPeelingShader: {fileID: 4800000, guid: db13a99f1f2de4968ae1cf667a4f1bcc,
+      type: 3}
+  - blendShader: {fileID: 4800000, guid: 8e3a2ef172be7488aa14b847b9f11d52, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

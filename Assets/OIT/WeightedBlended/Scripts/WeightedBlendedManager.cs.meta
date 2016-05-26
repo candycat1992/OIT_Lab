@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 75dc6d171d1b24408b176400e332e328
+timeCreated: 1464098600
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - accumulateShader: {fileID: 4800000, guid: ce4a7766a5a7048a594bac6648842baf, type: 3}
+  - revealageShader: {fileID: 4800000, guid: ab8c2cb9cabbb4fda928f16b333acaaa, type: 3}
+  - blendShader: {fileID: 4800000, guid: 419c2ad75824547d795f04823724eb1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
