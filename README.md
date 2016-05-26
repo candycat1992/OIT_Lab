@@ -1,20 +1,25 @@
 # Introduction
 
-This project implements the OIT (Order-independent Transparent) method described in the paper "Weighted Blended Order-Independent Transparency" by Morgan McGuire and Louis Bavoil.
+This project implements several OIT (Order-independent Transparent) methods in Unity.
 
-![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/ODT.gif) ![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/OIT.gif)
+Traditional ODT (Order-dependent Transparent) supported by native Unity:
 
-![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/ODT.png) ![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/OIT.png)
+![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/ODT.gif)
 
+Current implemented OIT methods include:
 
-# Usage
+## Depth Peeling
 
-1. Make sure the layer of all transparent objects is "Transparent" and the layer of all opaque objects is "Opaque".
-2. Add OITManager.cs to the main camera and change the mode as desire.
-3. See OIT_Scene for example.
+Reference: Order-Independent Transparence presented by Nvidia
 
-![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/camera_setting.png)
+![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/WeightedBlended.gif)
 
-Note: This project is just a demonstration.
+**Note**: need MRT support to render color and depth.
+
+## Weighted Blended
+
+Reference: Weighted Blended Order-Independent Transparency by Morgan McGuire and Louis Bavoil
+
+![Alt Text](https://github.com/candycat1992/OIT_Lab/blob/master/Screenshots/DepthPeeling.gif)
 
 
