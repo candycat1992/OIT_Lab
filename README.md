@@ -24,4 +24,4 @@ Reference: Weighted Blended Order-Independent Transparency by Morgan McGuire and
 
 # License
 
-MIT
+![MIT](https://github.com/candycat1992/OIT_Lab/blob/master/LICENSE.md)
